@@ -6,7 +6,6 @@
     "icons": {
         "128": "icon.png"
     },
-    "browser_action": {},
     "devtools_page": "devtools.html",
     "permissions": [
         "activeTab",
