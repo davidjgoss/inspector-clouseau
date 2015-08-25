@@ -1,0 +1,19 @@
+{
+  "name": "Inspector Clouseau",
+  "version": "0.1.0",
+  "description": "A tiny Chrome DevTools extension for inspecting Dojo (i.e. Dijit) widgets",
+  "main": "devtools.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjgoss/inspector-clouseau.git"
+  },
+  "author": "David Goss",
+  "bugs": {
+    "url": "https://github.com/davidjgoss/inspector-clouseau/issues"
+  },
+  "homepage": "https://github.com/davidjgoss/inspector-clouseau#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.13.0"
+  }
+}
