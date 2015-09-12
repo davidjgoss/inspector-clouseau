@@ -4,7 +4,7 @@ module.exports = function(grunt) {
             chrome: {
                 options: {
                     mode: "zip",
-                    archive: "../inspector-clouseau.zip",
+                    archive: "inspector-clouseau.zip",
                     pretty: true
                 },
                 files: [{
