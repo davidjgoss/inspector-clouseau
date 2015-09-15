@@ -1,5 +1,5 @@
 {
-  "name": "Inspector Clouseau",
+  "name": "inspector-clouseau",
   "version": "0.2.1",
   "description": "A tiny Chrome DevTools extension for inspecting Dojo (i.e. Dijit) widgets",
   "main": "devtools.js",
