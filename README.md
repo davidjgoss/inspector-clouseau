@@ -2,7 +2,7 @@
 
 A tiny Chrome DevTools extension for inspecting Dojo (i.e. Dijit) widgets.
 
-<http://davidjgoss.github.io/inspector-clouseau/>
+<https://davidjgoss.github.io/inspector-clouseau/>
 
 ## Installation
 
@@ -14,7 +14,7 @@ From the Chrome Web Store:
 1. Inspect an element in DevTools
 2. If it's the root element of a Dijit widget, or a child element of one, it a new tab "Widget" tab will be available
 
-![](//davidjgoss.github.io/inspector-clouseau/images/screenshot.png)
+![](https://davidjgoss.github.io/inspector-clouseau/images/screenshot.png)
 
 ## Limitations
 
